@@ -130,7 +130,7 @@
         <!--Navigation Controller-->
         <scene sceneID="099-v6-27D">
             <objects>
-                <navigationController modalPresentationStyle="fullScreen" id="YVf-hA-UAm" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" modalPresentationStyle="fullScreen" id="YVf-hA-UAm" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="qGc-uN-8EE">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
