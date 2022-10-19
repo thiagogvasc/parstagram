@@ -21,6 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 ![unit6-optimized](https://user-images.githubusercontent.com/62908111/196581932-ba3e2a0c-359e-443c-b005-6dbcf6b4e38f.gif)
 
 # Parstagram - Part I
